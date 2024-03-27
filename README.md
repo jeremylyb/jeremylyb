@@ -76,12 +76,12 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
 
 <br>
 
-
-
 </div>
 
 <hr>
 
+<h2> 🎖️🎖️ GitHub EmbarassingWorkInProgress Stats </h2>
+<div align= "center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -96,9 +96,13 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</div>
+<div align= "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeremylyb&show_icons=true&theme=onedark" width="600" align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylyb&theme=onedark" width="307.5" align="center">
+</div>
 
 <hr>
-
 
 <h2> 🔎 Where to find me </h2>
 <p>
