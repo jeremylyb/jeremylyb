@@ -23,6 +23,24 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
 <br>
 
 ---
+<h2> 🎯📈 Current endeavours </h2>
+Just completed 2 short courses on Docker and Selenium <br>
+
+
+  <img align="center" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> Datacamp - Introduction to Docker
+  <a href="https://www.datacamp.com/statement-of-accomplishment/course/d2b4633595e343b01b513975566d743485fc40a5?raw=1">Check out my Datacamp certificate!</a> <br>
+  <img align="center" alt="Selenium" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /> Youtube Course by Execute Automation - Introduction to Automation Testing with Selenium in C# .Net
+  <a href="https://www.youtube.com/watch?v=ANHMNIUPNSY&list=PL6tu16kXT9Pr50Bu96uf9z4rNxMTVTIxm">Check out the resources here!</a>
+
+Looking to incorporate learnings on Docker and enhance toolkit with a full Java Spring boot Microservices course. 
+It include learnings on Java Spring, Kubenetetes, Docker, AWS, and Postman! <a href="https://www.youtube.com/watch?v=BLlEgtp2_i8&t=136s"> Check out the resources here!</a> <br>
+<img align="center" alt="Spring Boot" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="AWS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="center" alt="Kubernetes" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img align="center" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+<img align="center" alt="Postman" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+---
 
   
 <h2> 🧰 Languages and Tools</h2>
@@ -38,7 +56,6 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
  <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
  <img align="left" alt=".NET Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
  <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
- <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="left" alt="Unix" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
@@ -46,6 +63,7 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
  <img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+ <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 
 <br>
 
@@ -58,7 +76,9 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
 <h4> 📲💻 Frontend Toolkit </h4>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 
 </div>
 
@@ -98,8 +118,8 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
 </picture>
 </div>
 <div align= "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeremylyb&show_icons=true&theme=onedark" width="600" align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylyb&theme=onedark" width="307.5" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jeremylyb&show_icons=true&theme=onedark" width="550" align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremylyb&theme=onedark" width="280" align="center">
 </div>
 
 <hr>
