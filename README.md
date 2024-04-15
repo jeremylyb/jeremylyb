@@ -24,12 +24,15 @@ Bottom line? I thrive on leveraging my software skills to streamline processes, 
 
 ---
 <h2> 🎯📈 Current endeavours </h2>
-Completed enhancement to the final ASP.NET project, Ecommerce Shopping App: NYAB NotYourAverageBicep 
-<a href="https://github.com/jeremylyb/ASP.NET_Project_EcommerceApp_NYAB"> Check out my the repository! </a> <br>
+
+Completed enhancement to the final ASP.NET project, Ecommerce Shopping App: NYAB NotYourAverageBicep <br>
+<img align="left" alt=".NET Core" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/> 
+<a href="https://github.com/jeremylyb/ASP.NET_Project_EcommerceApp_NYAB"> Check out the repo! </a> 
+
 Just completed 2 short courses on Docker and Selenium <br>
-  <img align="center" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> Datacamp - Introduction to Docker
+  <img align="left" alt="Docker" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"/> Datacamp - Introduction to Docker
   <a href="https://www.datacamp.com/statement-of-accomplishment/course/d2b4633595e343b01b513975566d743485fc40a5?raw=1">Check out my Datacamp certificate!</a> <br>
-  <img align="center" alt="Selenium" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /> Youtube Course by Execute Automation - Introduction to Automation Testing with Selenium in C# .Net
+  <img align="left" alt="Selenium" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /> Youtube Course by Execute Automation - Introduction to Automation Testing with Selenium in C# .Net
   <a href="https://www.youtube.com/watch?v=ANHMNIUPNSY&list=PL6tu16kXT9Pr50Bu96uf9z4rNxMTVTIxm">Check out the resources here!</a>
 
 Looking to incorporate learnings on Docker and enhance toolkit with a full Java Spring boot Microservices course. 
